@@ -19,3 +19,7 @@ The plugin does not upload any images, all images must already be present in the
 During upload you have 2 additional fields:
 - Global Images (comma separate list of image filenames)
 - Global Site ID (default = 1) 
+
+## Screenshots
+
+![Screenshot of WP All Import fields](/../documentation/Bildschirmfoto%202018-11-01%20um%2016.19.08.png?raw=true "WP All Import fields")
